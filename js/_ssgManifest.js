@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["/","/post/category/build-and-survive","/post/category/my-restaurant","/post/category/other","/post/category/big-paintball","/post/category/pet-simulator-1","/post/category/pet-simulator-2","/post/category/pet-simulator-x","/post","/post/[id]"]),self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB();
